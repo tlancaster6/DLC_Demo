@@ -6,13 +6,284 @@ multianimalproject: true
 identity: false
 
     # Project path (change when moving around)
-project_path: WILL BE AUTOMATICALLY UPDATED BY DEMO CODE
+project_path: C:/Users/tucke/DLC_Projects/demasoni_singlenuc
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  WILL BE AUTOMATICALLY UPDATED BY DEMO CODE:
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_sample.mp4:
     crop: 0, 720, 0, 900
-
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_sample.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_250200-251999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_027000-028799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_149400-151199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_009000-010799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_088200-089999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_106200-107999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_084600-086399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_100800-102599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_205200-206999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_237600-239399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_077400-079199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_136800-138599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_023400-025199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_178200-179999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_068400-070199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_201600-203399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_178200-179999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_343800-345599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_333000-334799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_014400-016199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_230400-232199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_120600-122399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_003600-005399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_118800-120599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_345600-347399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_037800-039599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_091800-093599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_189000-190799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_118800-120599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_239400-241199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_113400-115199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_156600-158399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_061200-062999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_244800-246599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_142200-143999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_054000-055799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_063000-064799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_153000-154799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_027000-028799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_014400-016199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_365400-367199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_352800-354599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_286200-287999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_199800-201599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_012600-014399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_253800-255599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_039600-041399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_052200-053999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_165600-167399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_165600-167399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_142200-143999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_077400-079199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_174600-176399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_172800-174599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_198000-199799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_198000-199799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_217800-219599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_151200-152999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_255600-257399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_084600-086399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_338400-340199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_048600-050399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_048600-050399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_352800-354599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_117000-118799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_271800-273599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_086400-088199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_030600-032399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_223200-224999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_104400-106199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_055800-057599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_064800-066599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_064800-066599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_316800-318599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_097200-098999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_145800-147599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_325800-327599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_081000-082799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_171000-172799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_316800-318599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_043200-044999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_120600-122399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_160200-161999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_010800-012599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_156600-158399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_039600-041399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_156600-158399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_171000-172799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_284400-286199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_345600-347399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_117000-118799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_122400-124199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_081000-082799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_352800-354599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_313200-314999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_023400-025199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_212400-214199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_057600-059399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group1_345600-347399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_140400-142199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_043200-044999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group9_172800-174599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_016200-017999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_156600-158399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_009000-010799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group7_187200-188999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group2_282600-284399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_063000-064799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group1_097200-098999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group6_162000-163799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_023400-025199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group3_019800-021599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group8_190800-192599.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group5_113400-115199.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group2_021600-023399.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group8_225000-226799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\BHVE_group5_106200-107999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group6_043200-044999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group9_315000-316799.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group3_160200-161999.mp4:
+    crop: 0, 720, 0, 900
+  C:\Users\tucke\DLC_Projects\demasoni_singlenuc\videos\CTRL_group7_066600-068399.mp4:
+    crop: 0, 720, 0, 900
 individuals:
 - ind1
 - ind2
@@ -29,6 +300,11 @@ multianimalbodyparts:
 - tailBase
 - tailTip
 bodyparts: MULTI!
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
 
     # Plotting configuration
 skeleton:
@@ -66,7 +342,7 @@ colormap: rainbow
     # Training,Evaluation and Analysis configuration
 TrainingFraction:
 - 0.95
-iteration: 0
+iteration: 2
 default_net_type: dlcrnet_ms5
 default_augmenter: multi-animal-imgaug
 default_track_method: ellipse
