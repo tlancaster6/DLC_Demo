@@ -1,65 +1,41 @@
     # Project definitions (do not edit)
-Task: demasoni_singlenuc
+Task: DLC_demo
 scorer: Tucker
-date: May23
+date: Oct10
 multianimalproject: true
-identity: false
+identity: true
 
     # Project path (change when moving around)
 project_path: /content/DLC_demo_data
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  /content/DLC_demo_data/videos/BHVE_group2_039600-041399.mp4:
+  /content/DLC_demo_data/videos/BHVE_group1_097200-098999.mp4:
     crop: 0, 720, 0, 900
-
 individuals:
-- ind1
-- ind2
-- ind3
+- male
+- female
 uniquebodyparts: []
 multianimalbodyparts:
 - nose
-- leftEye
-- rightEye
-- stripe1
-- stripe2
-- stripe3
-- stripe4
-- tailBase
-- tailTip
+- dorsal_fin
+- peduncle
 bodyparts: MULTI!
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
 
     # Plotting configuration
 skeleton:
 - - nose
-  - leftEye
-- - nose
-  - rightEye
-- - leftEye
-  - rightEye
-- - leftEye
-  - stripe1
-- - rightEye
-  - stripe1
-- - stripe1
-  - stripe2
-- - stripe2
-  - stripe3
-- - stripe3
-  - stripe4
-- - stripe4
-  - tailBase
-- - tailBase
-  - tailTip
-- - leftEye
-  - tailBase
-- - rightEye
-  - tailBase
-
+  - dorsal_fin
+- - dorsal_fin
+  - peduncle
 skeleton_color: white
 pcutoff: 0.6
-dotsize: 4
+dotsize: 12
 alphavalue: 0.7
 colormap: rainbow
 
