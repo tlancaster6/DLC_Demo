@@ -1,0 +1,88 @@
+    # Project definitions (do not edit)
+Task: demasoni_singlenuc
+scorer: Tucker
+date: May23
+multianimalproject: true
+identity: false
+
+    # Project path (change when moving around)
+project_path: WILL BE AUTOMATICALLY UPDATED BY DEMO CODE
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  WILL BE AUTOMATICALLY UPDATED BY DEMO CODE:
+    crop: 0, 720, 0, 900
+
+individuals:
+- ind1
+- ind2
+- ind3
+uniquebodyparts: []
+multianimalbodyparts:
+- nose
+- leftEye
+- rightEye
+- stripe1
+- stripe2
+- stripe3
+- stripe4
+- tailBase
+- tailTip
+bodyparts: MULTI!
+
+    # Plotting configuration
+skeleton:
+- - nose
+  - leftEye
+- - nose
+  - rightEye
+- - leftEye
+  - rightEye
+- - leftEye
+  - stripe1
+- - rightEye
+  - stripe1
+- - stripe1
+  - stripe2
+- - stripe2
+  - stripe3
+- - stripe3
+  - stripe4
+- - stripe4
+  - tailBase
+- - tailBase
+  - tailTip
+- - leftEye
+  - tailBase
+- - rightEye
+  - tailBase
+
+skeleton_color: white
+pcutoff: 0.6
+dotsize: 4
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: dlcrnet_ms5
+default_augmenter: multi-animal-imgaug
+default_track_method: ellipse
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
