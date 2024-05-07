@@ -6,11 +6,11 @@ multianimalproject: true
 identity: true
 
     # Project path (change when moving around)
-project_path: C:/Users/tucke/PycharmProjects/DLC_Demo
+project_path: /content/DLC_demo_data
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
-  C:\Users\tucke\PycharmProjects\DLC_Demo\videos\BHVE_group1_097200-098999.mp4:
+  /content/DLC_demo_data/videos/BHVE_group1_097200-098999.mp4:
     crop: 0, 720, 0, 900
 individuals:
 - male
